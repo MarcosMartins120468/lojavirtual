@@ -1,4 +1,4 @@
 # lojavirtual
 Curso promovido pela B7WEB
 
-texto alterado no repositorio local
+texto alterado no repositorio local, (2)
